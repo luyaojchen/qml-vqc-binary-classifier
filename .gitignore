@@ -1,0 +1,6 @@
+data/
+.env
+venv/
+__pycache__/
+log/
+trained_params/
